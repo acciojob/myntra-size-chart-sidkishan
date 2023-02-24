@@ -1,2 +1,14 @@
 
-/* Your CSS Code here. */
+table{
+	width:90%;
+	border:1px solid;
+	border-collapse:collapse;
+}
+th{
+	text-align:start;
+	background-color:tomato;
+}
+td,th{
+	border:1px solid;
+	 background-color:pink;
+}
